@@ -15,3 +15,6 @@ Uno de estos cambios por los cuales los jóvenes estan supuestos a pasar es el c
 Este dataset es de la pagina de kaggle :
 
 [LINK DEL DATASET](https://www.kaggle.com/uciml/student-alcohol-consumption)
+
+# Link de explicacion:
+[link](https://www.youtube.com/watch?v=zTqGh0YL9CE)
